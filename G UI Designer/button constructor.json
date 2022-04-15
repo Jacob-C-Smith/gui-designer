@@ -1,39 +1,39 @@
 {
-    "name"     : " Label constructor ",
+    "name"     : " Button constructor ",
     "width"    : 224,
     "height"   : 112,
     "elements" : [
         {
             "type"         : "LABEL",
-            "name"         : "label_text",
+            "name"         : "button_text",
             "text"         : "text :",
             "x"            : 16,
             "y"            : 16
         },
         {
             "type"         : "LABEL",
-            "name"         : "label_x",
+            "name"         : "button_x",
             "text"         : "x    :",
             "x"            : 16,
             "y"            : 34
         },
         {
             "type"         : "LABEL",
-            "name"         : "label_y",
+            "name"         : "button_y",
             "text"         : "y    :",
             "x"            : 16,
             "y"            : 52
         },
         {
             "type"         : "LABEL",
-            "name"         : "label_name",
+            "name"         : "button_name",
             "text"         : "name :",
             "x"            : 16,
             "y"            : 70
         },
         {
             "type"        : "TEXT INPUT",
-            "name"        : "label_text_input",
+            "name"        : "button_text_input",
             "x"           : 64,
             "y"           : 13,
             "text"        : "",
@@ -42,7 +42,7 @@
         },
         {
             "type"        : "TEXT INPUT",
-            "name"        : "label_x_input",
+            "name"        : "button_x_input",
             "x"           : 64,
             "y"           : 31,
             "text"        : "",
@@ -51,7 +51,7 @@
         },
         {
             "type"        : "TEXT INPUT",
-            "name"        : "label_y_input",
+            "name"        : "button_y_input",
             "x"           : 64,
             "y"           : 49,
             "text"        : "",
@@ -60,7 +60,7 @@
         },
         {
             "type"        : "TEXT INPUT",
-            "name"        : "label_name_input",
+            "name"        : "button_name_input",
             "x"           : 64,
             "y"           : 67,
             "text"        : "",
@@ -69,7 +69,7 @@
         },
         {
             "type"     : "BUTTON",
-            "name"     : "label_submit",
+            "name"     : "button_submit",
             "text"     : "Construct",
             "x"        : 136,
             "y"        : 88

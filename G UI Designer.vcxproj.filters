@@ -18,5 +18,19 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="include\Designer\Label.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Designer\Button.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Designer\Label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
